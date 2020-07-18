@@ -1,0 +1,10 @@
+
+python-starters/.env/
+.idea/
+robotframework-starters/report.html
+robotframework-starters/playwright-log.txt
+robotframework-starters/output.xml
+robotframework-starters/log.html
+robotframework-starters/report.html
+robotframework-starters/playwright-log.txt
+

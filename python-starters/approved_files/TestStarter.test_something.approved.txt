@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta charset="utf-8">
+
+  <title>Maaret Pyhäjärvi</title>
+  <meta property="og:title" content="Maaret Pyhäjärvi">
+  <meta property="og:url" content="https://maaretp.com/">
+  <meta property="og:description" name="description" content="">
+  <meta property="og:site_name" content="maaretp.com">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="website">
+
+  <meta name="twitter:creator" content="@maaretp">
+  <meta name="author" content="Maaret Pyhäjärvi">
+
+  <link href="https://fonts.googleapis.com/css?family=Lato|Lobster" rel="stylesheet">
+  <link type="text/css" rel="stylesheet" href="new_styles.css" media="all" />
+  <link rel="stylesheet" href="img/icomoon/style.css"></head>
+</head>
+
+<body>
+
+<nav class="mainnav">
+  	<ul>
+  		<li class="selected">
+  			<a href="index.html">Home</a>
+  		</li>
+  		<li>
+  			<a href="myArticles.html">Published Material</a>
+  		</li>
+  		<li>
+  			<a href="myTalks.html">My Talks, Workshops and Trainings</a>
+  		</li>
+  	</ul>
+</nav>
+
+<table>
+<tr>
+  <td style="width:5%" align="center">
+  </td>
+  <td>
+    <img class="headshot" src="img/maaret_transparent.png" style="height:400px;"/>
+  </td>
+  <td style="width:70%" align="center" >
+    <h1> Maaret Pyhäjärvi </h1>
+
+    Feedback Fairy. <br>
+    Tester, (Polyglot) Programmer. <br>
+    Teacher and Mentor. <br>
+    International Keynote Speaker. <br>
+    Author. <br>
+    Conference Organizer and Community Facilitator. <br>
+    Principal Quality Engineer at Vaisala. <br>
+    She/Her. <br>
+    <br>
+
+    <i>I make people awesome.</i><p>
+
+    <h4>Spoken at events in 25 countries</h4>
+    <table>
+    <td><img class="flag" height="20" src="flags/4x3/fi.svg" alt="Finland "></td>
+    <td><img class="flag" height="20" src="flags/4x3/se.svg" alt="Sweden"></td>
+    <td><img class="flag" height="20" src="flags/4x3/no.svg" alt="Norway"></td>
+    <td><img class="flag" height="20" src="flags/4x3/dk.svg" alt="Denmark"></td>
+    <td><img class="flag" height="20" src="flags/4x3/lv.svg" alt="Latvia"></td>
+    <td><img class="flag" height="20" src="flags/4x3/ee.svg" alt="Estonia"></td>
+    <td><img class="flag" height="20" src="flags/4x3/us.svg" alt="US"></td>
+    <td><img class="flag" height="20" src="flags/4x3/ch.svg" alt="Switzerland"></td>
+    <td><img class="flag" height="20" src="flags/4x3/hu.svg" alt="Hungary"></td>
+    <td><img class="flag" height="20" src="flags/4x3/fr.svg" alt="France"></td>
+    <td><img class="flag" height="20" src="flags/4x3/be.svg" alt="Belgium"></td>
+    <td><img class="flag" height="20" src="flags/4x3/hr.svg" alt="Croatia"></td>
+    <td><img class="flag" height="20" src="flags/4x3/md.svg" alt="Moldova"></td>
+    <td><img class="flag" height="20" src="flags/4x3/pt.svg" alt="Portugal"></td>
+    <td><img class="flag" height="20" src="flags/4x3/pl.svg" alt="Poland"></td>
+    <td><img class="flag" height="20" src="flags/4x3/ro.svg" alt="Romania"></td>
+    <td><img class="flag" height="20" src="flags/4x3/rs.svg" alt="Serbia"></td>
+    <td><img class="flag" height="20" src="flags/4x3/de.svg" alt="Germany"></td>
+    <td><img class="flag" height="20" src="flags/4x3/es.svg" alt="Spain"></td>
+    <td><img class="flag" height="20" src="flags/4x3/gb.svg" alt="United Kingdom"></td>
+    <td><img class="flag" height="20" src="flags/4x3/bg.svg" alt="Bulgaria"></td>
+    <td><img class="flag" height="20" src="flags/4x3/in.svg" alt="India"></td>
+    <td><img class="flag" height="20" src="flags/4x3/au.svg" alt="Australia"></td>
+    <td><img class="flag" height="20" src="flags/4x3/tr.svg" alt="Turkey"></td>
+      <!--Total talk count by end of 2018 380 talks-->
+      <!--add flags of all countries I've spoken at-->
+    </table>
+</td>
+</tr>
+</table>
+
+<footer class="main-footer">
+    <div class="contact">
+        <h3>Get in Touch</h3>
+        <ul>
+          <li>
+            <span class="icon-envelope-o"></span>
+            <a href="mailto:maaret@iki.fi">maaret@iki.fi</a>
+          </li>
+          <li>
+            <span class="icon-twitter-square"></span>
+            <a href="https://twitter.com/maaretp" target="_blank" rel="noopener noreferrer me" title="Twitter profile">Follow me</a>
+          </li>
+          <li>
+            <span class="icon-facebook-square"></span>
+            <a href="https://facebook.com/MaaretPy/" target="_blank" rel="noopener noreferrer me" title="Facebook Page">Like my page</a>
+          </li>
+          <li>
+            <span class="icon-linkedin-square"></span>
+            <a href="https://fi.linkedin.com/in/maaret" target="_blank" rel="noopener noreferrer me" title="LinkedIn profile">Link with me</a>
+          </li>
+        </ul>
+
+        <ul style="padding-top: 1em; padding-bottom: 1em;">
+          <li>
+            <span class="icon-star-o"></span>
+            <a href="https://visible-quality.blogspot.com" target="_blank" rel="noopener noreferrer me" title="Blog">Read my blog</a>
+          </li>
+          <li>
+            <span class="icon-youtube"></span>
+            <a href="https://www.youtube.com/channel/UCrTlIKuIS-LmRk-aAbcxTKg" target="_blank" rel="noopener noreferrer me" title="YouTube channel">Watch my videos</a>
+          </li>
+          <li>
+            <span class="icon-slideshare"></span>
+            <a href="https://www.slideshare.net/maaretp" target="_blank" rel="noopener noreferrer me" title="SlideShare">Check my slides</a>
+          </li>
+        </ul>
+    </div>
+
+    <nav class="footer-nav">
+        <h3>My contributions ...</h3>
+        <ul>
+            <li>
+              <span class="icon-star"></span>
+              <a href="myArticles.html"> Blog, &amp; Articles &amp; Podcasts</a>
+            </li>
+            <li>
+              <span class="icon-fort-awesome"></span>
+              <a href="myTalks.html"> Speaking</a>
+            </li>
+            <li>
+              <span class="icon-book"></span>
+              <a href="http://exploratorytesting.xyz" target="_blank" rel="noopener noreferrer">LeanPub: Exploratory Testing</a>
+            </li>
+            <li>
+              <span class="icon-book"></span>
+              <a href="http://mobprogrammingguidebook.xyz" target="_blank" rel="noopener noreferrer">Mob Programming Guidebook</a>
+            </li>
+            <li>
+              <span class="icon-book"></span>
+              <a href="http://strongstylepairprogramming.xyz" target="_blank" rel="noopener noreferrer">LeanPub: Strong-Style Pair Programming</a>
+            </li>
+            <li>
+              <span class="icon-ticket"></span>
+              <a href="https://drive.google.com/folderview?id=0B07e3JZGe_haTnlXUHJ4MXo0aTA&usp=sharing" target="_blank" rel="noopener noreferrer">My talk and course brochures</a>
+            </li>
+        </ul>
+    </nav>
+
+    <div class="footer-elsewhere">
+        <h3>... and my projects</h3>
+        <ul>
+          <li><a href="https://europeantestingconference.eu"> European Testing Conference </a> </li>
+          <li><a href="https://techvoices.org"> Tech Voices </a></li>
+          <li><a href="https://testausyhdistys.fi"> Finnish Association for Software Testing</a></li>
+          <li><a href="https://www.meetup.com/Tech-Excellence-Finland/"> Tech Excellence Finland Meetup </a></li>
+          <ku><a href="ETI.html">Exploratory Testing Index</a></li>
+        </ul>
+    </div>
+</footer>
+
+</body>
